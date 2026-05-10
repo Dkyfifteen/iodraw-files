@@ -1,0 +1,95 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="Ir3pvfv3ev-VguYkzXHV">
+    <mxGraphModel dx="1489" dy="-2450" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0d2PC_F61lRZmx5BPMNq-1" value="查阅相关文献了解大型零件视觉检测研究现状" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="226" y="3334" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="0d2PC_F61lRZmx5BPMNq-2" value="整体方案设计" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="274" y="3450" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="0d2PC_F61lRZmx5BPMNq-3" value="亚像素边缘检测、缺陷检测与三维重构技术研究" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="226" y="3548" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="0d2PC_F61lRZmx5BPMNq-4" value="系统软件设计" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="274" y="3664" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="0d2PC_F61lRZmx5BPMNq-5" value="实验平台搭建" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="274" y="3763" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="0d2PC_F61lRZmx5BPMNq-6" value="尺寸测量结果分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="20" y="3861" width="188" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="0d2PC_F61lRZmx5BPMNq-7" value="缺陷检测结果分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="258" y="3861" width="188" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="0d2PC_F61lRZmx5BPMNq-8" value="三维重构结果分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="496" y="3861" width="188" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="0d2PC_F61lRZmx5BPMNq-9" value="结论与展望" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="282" y="3960" width="140" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="0d2PC_F61lRZmx5BPMNq-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=20;" parent="1" source="0d2PC_F61lRZmx5BPMNq-1" target="0d2PC_F61lRZmx5BPMNq-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0d2PC_F61lRZmx5BPMNq-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontSize=20;" parent="1" source="0d2PC_F61lRZmx5BPMNq-2" target="0d2PC_F61lRZmx5BPMNq-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0d2PC_F61lRZmx5BPMNq-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontSize=20;" parent="1" source="0d2PC_F61lRZmx5BPMNq-3" target="0d2PC_F61lRZmx5BPMNq-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0d2PC_F61lRZmx5BPMNq-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontSize=20;" parent="1" source="0d2PC_F61lRZmx5BPMNq-4" target="0d2PC_F61lRZmx5BPMNq-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0d2PC_F61lRZmx5BPMNq-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.84;entryX=0.5;entryY=0;rounded=0;fontSize=20;" parent="1" source="0d2PC_F61lRZmx5BPMNq-5" target="0d2PC_F61lRZmx5BPMNq-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="114" y="3836" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0d2PC_F61lRZmx5BPMNq-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=20;" parent="1" source="0d2PC_F61lRZmx5BPMNq-5" target="0d2PC_F61lRZmx5BPMNq-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0d2PC_F61lRZmx5BPMNq-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.84;entryX=0.5;entryY=0;rounded=0;fontSize=20;" parent="1" source="0d2PC_F61lRZmx5BPMNq-5" target="0d2PC_F61lRZmx5BPMNq-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="3836" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0d2PC_F61lRZmx5BPMNq-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.19;rounded=0;fontSize=20;" parent="1" source="0d2PC_F61lRZmx5BPMNq-6" target="0d2PC_F61lRZmx5BPMNq-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="114" y="3935" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0d2PC_F61lRZmx5BPMNq-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;fontSize=20;" parent="1" source="0d2PC_F61lRZmx5BPMNq-7" target="0d2PC_F61lRZmx5BPMNq-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0d2PC_F61lRZmx5BPMNq-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.19;rounded=0;fontSize=20;" parent="1" source="0d2PC_F61lRZmx5BPMNq-8" target="0d2PC_F61lRZmx5BPMNq-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="3935" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
