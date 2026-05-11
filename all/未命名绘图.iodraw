@@ -44,10 +44,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t9S63O0gwqb-xeSZHd58-8" value="图像采集与实验验证" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="467" y="977" width="176" height="48" as="geometry" />
+          <mxGeometry x="457" y="958" width="176" height="48" as="geometry" />
         </mxCell>
         <mxCell id="t9S63O0gwqb-xeSZHd58-13" value="结论与展望" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="475" y="1067" width="140" height="48" as="geometry" />
+          <mxGeometry x="475" y="1051" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="t9S63O0gwqb-xeSZHd58-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontSize=18;" edge="1" parent="1" source="t9S63O0gwqb-xeSZHd58-1" target="t9S63O0gwqb-xeSZHd58-2">
           <mxGeometry relative="1" as="geometry">
