@@ -41,6 +41,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="t9S63O0gwqb-xeSZHd58-32" value="实验平台搭建" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="467" y="970" width="156" height="48" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
