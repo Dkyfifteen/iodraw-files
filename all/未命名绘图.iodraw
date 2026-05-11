@@ -22,6 +22,11 @@
         <mxCell id="t9S63O0gwqb-xeSZHd58-2" value="整体方案设计" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="467" y="638" width="156" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="t9S63O0gwqb-xeSZHd58-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="t9S63O0gwqb-xeSZHd58-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="t9S63O0gwqb-xeSZHd58-4" value="亚像素边缘检测研究" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="80" y="769" width="204" height="48" as="geometry" />
         </mxCell>
@@ -31,7 +36,7 @@
         <mxCell id="t9S63O0gwqb-xeSZHd58-6" value="三维重构技术研究" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="572" y="769" width="188" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="t9S63O0gwqb-xeSZHd58-7" value="系统软件设计&#xa;（PyQt5上位机）" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="t9S63O0gwqb-xeSZHd58-7" value="系统软件设计" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="810" y="760" width="245" height="66" as="geometry" />
         </mxCell>
         <mxCell id="t9S63O0gwqb-xeSZHd58-8" value="图像采集与实验验证" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
