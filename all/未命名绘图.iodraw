@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="CPVStbTpDyiAG1jvi-ss">
-    <mxGraphModel dx="1042" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1489" dy="350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,6 +42,9 @@
         <mxCell id="t9S63O0gwqb-xeSZHd58-6" value="三维重构技术研究" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="572" y="769" width="188" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="t9S63O0gwqb-xeSZHd58-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t9S63O0gwqb-xeSZHd58-8" target="t9S63O0gwqb-xeSZHd58-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="t9S63O0gwqb-xeSZHd58-8" value="图像采集与实验验证" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="467" y="977" width="156" height="48" as="geometry" />
         </mxCell>
@@ -61,6 +64,9 @@
         </mxCell>
         <mxCell id="t9S63O0gwqb-xeSZHd58-42" value="上位机软件设计" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="810" y="769" width="188" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="t9S63O0gwqb-xeSZHd58-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.496;entryY=0.187;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="t9S63O0gwqb-xeSZHd58-32" target="t9S63O0gwqb-xeSZHd58-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
