@@ -73,6 +73,9 @@
             <mxPoint x="545" y="925" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="t9S63O0gwqb-xeSZHd58-50" value="整体方案设计" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="467" y="881" width="156" height="48" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
