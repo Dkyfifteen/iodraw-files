@@ -22,8 +22,10 @@
         <mxCell id="t9S63O0gwqb-xeSZHd58-2" value="整体方案设计" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="467" y="638" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="t9S63O0gwqb-xeSZHd58-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t9S63O0gwqb-xeSZHd58-4" target="t9S63O0gwqb-xeSZHd58-32">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="t9S63O0gwqb-xeSZHd58-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t9S63O0gwqb-xeSZHd58-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="877" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="t9S63O0gwqb-xeSZHd58-4" value="亚像素边缘检测研究" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="80" y="769" width="204" height="48" as="geometry" />
@@ -36,8 +38,10 @@
         <mxCell id="t9S63O0gwqb-xeSZHd58-5" value="缺陷检测技术研究" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="334" y="769" width="188" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="t9S63O0gwqb-xeSZHd58-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t9S63O0gwqb-xeSZHd58-6" target="t9S63O0gwqb-xeSZHd58-32">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="t9S63O0gwqb-xeSZHd58-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t9S63O0gwqb-xeSZHd58-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="877" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="t9S63O0gwqb-xeSZHd58-6" value="三维重构技术研究" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="572" y="769" width="188" height="48" as="geometry" />
@@ -56,17 +60,18 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t9S63O0gwqb-xeSZHd58-32" value="实验平台搭建" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="467" y="877" width="156" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="t9S63O0gwqb-xeSZHd58-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t9S63O0gwqb-xeSZHd58-42" target="t9S63O0gwqb-xeSZHd58-32">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="t9S63O0gwqb-xeSZHd58-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t9S63O0gwqb-xeSZHd58-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="877" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="t9S63O0gwqb-xeSZHd58-42" value="上位机软件设计" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="810" y="769" width="188" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="t9S63O0gwqb-xeSZHd58-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.496;entryY=0.187;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="t9S63O0gwqb-xeSZHd58-32" target="t9S63O0gwqb-xeSZHd58-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="t9S63O0gwqb-xeSZHd58-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.496;entryY=0.187;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="t9S63O0gwqb-xeSZHd58-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="925" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
