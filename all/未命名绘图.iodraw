@@ -10,9 +10,6 @@
         <mxCell id="t9S63O0gwqb-xeSZHd58-2" value="整体方案设计" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="467" y="638" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="t9S63O0gwqb-xeSZHd58-3" value="图像采集系统搭建&#xa;（CIS相机 + 运动平台）" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="417" y="737" width="256" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="t9S63O0gwqb-xeSZHd58-4" value="亚像素边缘检测研究" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="70" y="862" width="204" height="48" as="geometry" />
         </mxCell>
@@ -25,7 +22,7 @@
         <mxCell id="t9S63O0gwqb-xeSZHd58-7" value="系统软件设计&#xa;（PyQt5上位机）" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="800" y="853" width="245" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="t9S63O0gwqb-xeSZHd58-8" value="实验平台搭建" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="t9S63O0gwqb-xeSZHd58-8" value="图像采集与实验验证" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="467" y="1070" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="t9S63O0gwqb-xeSZHd58-13" value="结论与展望" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
@@ -36,9 +33,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t9S63O0gwqb-xeSZHd58-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="t9S63O0gwqb-xeSZHd58-2" target="t9S63O0gwqb-xeSZHd58-3">
+        <mxCell id="t9S63O0gwqb-xeSZHd58-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="t9S63O0gwqb-xeSZHd58-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="545" y="737" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="t9S63O0gwqb-xeSZHd58-32" value="实验平台搭建" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
