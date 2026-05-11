@@ -54,8 +54,14 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="t9S63O0gwqb-xeSZHd58-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t9S63O0gwqb-xeSZHd58-42" target="t9S63O0gwqb-xeSZHd58-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="t9S63O0gwqb-xeSZHd58-42" value="上位机软件设计" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="810" y="769" width="188" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="t9S63O0gwqb-xeSZHd58-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="t9S63O0gwqb-xeSZHd58-50" target="t9S63O0gwqb-xeSZHd58-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t9S63O0gwqb-xeSZHd58-50" value="实验平台搭建" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="467" y="881" width="156" height="48" as="geometry" />
