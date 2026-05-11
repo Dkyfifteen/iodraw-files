@@ -33,12 +33,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t9S63O0gwqb-xeSZHd58-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="t9S63O0gwqb-xeSZHd58-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="545" y="737" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="t9S63O0gwqb-xeSZHd58-32" value="实验平台搭建" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="477" y="877" width="156" height="48" as="geometry" />
         </mxCell>
