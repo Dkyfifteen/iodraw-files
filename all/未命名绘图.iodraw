@@ -1,0 +1,13 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="CPVStbTpDyiAG1jvi-ss">
+    <mxGraphModel dx="1042" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qzF0CnGf1t8KUGJiVVfZ-1" value="flowchart TD&#xa;    A[开始] --&gt; B[用户通过标签页选择功能模块]&#xa;    &#xa;    B --&gt; C{功能模块选择}&#xa;    &#xa;    C --&gt; D[尺寸测量]&#xa;    C --&gt; E[缺陷检测]&#xa;    C --&gt; F[三维外观重构]&#xa;    &#xa;    %% 尺寸测量分支&#xa;    D --&gt; D1[加载原始图像]&#xa;    D1 --&gt; D2[设置像素尺度与边缘检测阈值]&#xa;    D2 --&gt; D3[点击“开始测量”]&#xa;    D3 --&gt; D4[执行轮廓提取与尺寸计算]&#xa;    D4 --&gt; D5[显示标注轮廓图像与尺寸统计信息]&#xa;    D5 --&gt; G[结束]&#xa;    &#xa;    %% 缺陷检测分支&#xa;    E --&gt; E1[加载待测图像]&#xa;    E1 --&gt; E2[调节Canny阈值与最小缺陷面积]&#xa;    E2 --&gt; E3[点击“检测”]&#xa;    E3 --&gt; E4[执行缺陷识别与分类]&#xa;    E4 --&gt; E5[显示缺陷轮廓标注图与统计报告]&#xa;    E5 --&gt; G&#xa;    &#xa;    %% 三维外观重构分支&#xa;    F --&gt; F1[选择重构形状并加载纹理图像]&#xa;    F1 --&gt; F2[设置几何参数与细分精度]&#xa;    F2 --&gt; F3[点击“开始三维重构”]&#xa;    F3 --&gt; F4[系统后台生成网格模型并映射纹理]&#xa;    F4 --&gt; F5[弹出独立三维显示窗口进行交互与导出]&#xa;    F5 --&gt; G" style="text;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="70" y="40" width="310" height="480" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
