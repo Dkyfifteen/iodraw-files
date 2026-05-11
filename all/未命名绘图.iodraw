@@ -44,7 +44,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t9S63O0gwqb-xeSZHd58-8" value="图像采集与实验验证" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="467" y="977" width="156" height="48" as="geometry" />
+          <mxGeometry x="467" y="977" width="176" height="48" as="geometry" />
         </mxCell>
         <mxCell id="t9S63O0gwqb-xeSZHd58-13" value="结论与展望" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="475" y="1067" width="140" height="48" as="geometry" />
