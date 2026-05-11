@@ -26,10 +26,10 @@
           <mxGeometry x="800" y="853" width="245" height="66" as="geometry" />
         </mxCell>
         <mxCell id="t9S63O0gwqb-xeSZHd58-8" value="实验平台搭建" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="467" y="1080" width="156" height="48" as="geometry" />
+          <mxGeometry x="467" y="1070" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="t9S63O0gwqb-xeSZHd58-13" value="结论与展望" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="475" y="1166" width="140" height="48" as="geometry" />
+          <mxGeometry x="475" y="1160" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="t9S63O0gwqb-xeSZHd58-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontSize=18;" edge="1" parent="1" source="t9S63O0gwqb-xeSZHd58-1" target="t9S63O0gwqb-xeSZHd58-2">
           <mxGeometry relative="1" as="geometry">
