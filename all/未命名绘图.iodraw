@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="t9S63O0gwqb-xeSZHd58-1" value="文献调研与需求分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="443" y="540" width="204" height="48" as="geometry" />
+          <mxGeometry x="443" y="583" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="t9S63O0gwqb-xeSZHd58-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t9S63O0gwqb-xeSZHd58-2" target="t9S63O0gwqb-xeSZHd58-4">
           <mxGeometry relative="1" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t9S63O0gwqb-xeSZHd58-8" value="图像采集与实验验证" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="457" y="958" width="176" height="48" as="geometry" />
+          <mxGeometry x="457" y="936" width="176" height="48" as="geometry" />
         </mxCell>
         <mxCell id="t9S63O0gwqb-xeSZHd58-13" value="结论与展望" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="475" y="1035" width="140" height="48" as="geometry" />
@@ -64,7 +64,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t9S63O0gwqb-xeSZHd58-50" value="实验平台搭建" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="467" y="881" width="156" height="48" as="geometry" />
+          <mxGeometry x="467" y="861" width="156" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
