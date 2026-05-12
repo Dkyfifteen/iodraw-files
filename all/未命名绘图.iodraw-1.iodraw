@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="_VQEffmYD-2-lHHrBl_O">
-    <mxGraphModel dx="2295" dy="955" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="900" pageHeight="1600" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1703" dy="656" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="900" pageHeight="1600" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="a4k55_shDRbkkUwYCpLS-2" value="图像预处理&#xa;    高斯滤波" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="194" y="29" width="140" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="a4k55_shDRbkkUwYCpLS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a4k55_shDRbkkUwYCpLS-3" target="a4k55_shDRbkkUwYCpLS-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a4k55_shDRbkkUwYCpLS-3" value="ROI提取&#xa;    定位零件区域&#xa;    排除背景" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="384" y="20" width="156" height="84" as="geometry" />
