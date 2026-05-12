@@ -35,11 +35,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a4k55_shDRbkkUwYCpLS-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=18;" edge="1" parent="1" source="a4k55_shDRbkkUwYCpLS-3" target="a4k55_shDRbkkUwYCpLS-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="a4k55_shDRbkkUwYCpLS-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=18;" edge="1" parent="1" source="a4k55_shDRbkkUwYCpLS-4" target="a4k55_shDRbkkUwYCpLS-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
